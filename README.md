@@ -84,6 +84,3 @@ The objective of this project is to analyze passenger data from the Titanic data
 This project demonstrates how machine learning can be used to analyze historical data and make predictions. It highlights the importance of data preprocessing, feature selection, and model evaluation.
 
 ---
-
-## 🔗 GitHub Repository
-(Add your GitHub link here)
